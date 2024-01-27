@@ -10,3 +10,7 @@
     border: 2px solid navajowhite;
     overflow: scroll;
 }
+.logo .tiger{
+    width: 200px;
+    padding-left: 200px;
+}
