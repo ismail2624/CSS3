@@ -1,0 +1,12 @@
+.box1{
+    width: 500px;
+    height: 200px;
+    border: 2px solid magenta;
+    overflow: scroll;
+}
+.box2{
+    width: 500px;
+    height: 200px;
+    border: 2px solid navajowhite;
+    overflow: scroll;
+}
