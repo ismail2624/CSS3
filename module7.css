@@ -14,3 +14,18 @@
     width: 200px;
     padding-left: 200px;
 }
+.headertf{
+    text-align: center;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    border: 2px solid mediumseagreen;
+} 
+.outer{
+    background-color: hotpink;
+}
+.inner{
+    background-color: honeydew;
+    transform: translateX(10px) rotate(40deg);
+}    
